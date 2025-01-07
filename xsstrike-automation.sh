@@ -32,7 +32,7 @@ show_help() {
   echo ""
   echo "Examples:"
   echo "  $0 -D https://example.com --threads 3 --crawl"
-  echo "  $0 --url https://www.teramind.co --threads 3 --skip-dom"
+  echo "  $0 --url https://www.example.com --threads 3 --skip-dom"
   exit 0
 }
 
