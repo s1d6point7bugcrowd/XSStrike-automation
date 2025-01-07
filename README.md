@@ -1,5 +1,15 @@
 # XSStrike Automation Script
 
+
+# Legal Disclaimer:
+# This script is intended for educational purposes and ethical security testing only.
+# Use of this script for attacking targets without prior mutual consent is illegal.
+# The author or any associated entities will not be held responsible for any misuse or damage caused by this script.
+# By using this script, you agree that you have obtained explicit permission from the rightful owner(s) of the system(s) involved in your testing activities.
+
+
+
+
 ## Overview
 This script automates the process of testing for Cross-Site Scripting (XSS) vulnerabilities using XSStrike. It supports comprehensive scanning options for both single URLs and multiple endpoints extracted from a given domain.
 
