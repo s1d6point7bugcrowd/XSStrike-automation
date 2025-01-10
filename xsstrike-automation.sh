@@ -151,7 +151,7 @@ if [[ -n "$DOMAIN" ]]; then
 
     python3 /home/kali/XSStrike/xsstrike.py \
       --url "$url" \
-      --headers "X-Custom-Header: s1d6p01nt7@bugcrowdninja.com" \
+      --headers "X-Custom-Header: researcher@bugbounty" \
       "${XSS_ARGS[@]}" \
       2>&1 | tee -a "$XSSTRIKE_OUTPUT" "$MAIN_LOG"
 
